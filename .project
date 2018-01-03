@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>R13TOR17TAFJ</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.temenos.tafj.builder.TAFJBasicBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.pde.ds.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.temenos.tafj.builder.TAFJBasicNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>basic</name>
+			<type>2</type>
+			<location>C:/Temenos/Upgrade_testing/TAFJ_R17/samples/basic</location>
+		</link>
+	</linkedResources>
+</projectDescription>

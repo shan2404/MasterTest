@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+<Property key="temn.tafj.config.file" value="C:\Temenos\Upgrade_testing\TAFJ_R17\conf\R13TOR17TAFJ.properties"/>
+<Property key="tafj.home" value="C:\Temenos\Upgrade_testing\TAFJ_R17"/>
+</Properties>
